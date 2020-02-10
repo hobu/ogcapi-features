@@ -5,4 +5,4 @@ oneOf:
 - $ref: 'multilinestringGeoJSON.yaml'
 - $ref: 'polygonGeoJSON.yaml'
 - $ref: 'multipolygonGeoJSON.yaml'
-- $ref: 'geometrycollectionGeoJSON.yaml'
+# - $ref: 'geometrycollectionGeoJSON.yaml'
